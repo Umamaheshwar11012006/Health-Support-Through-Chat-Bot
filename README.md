@@ -1,4 +1,5 @@
-# 🤖 Bonny — AI Crisis Intervention Chatbot (Educational Demo)
+# 🤖 Bonny — AI Health-Support-Through-Chat-Bot
+(Educational Demo)
 
 > **⚠️ DISCLAIMER:** This project is strictly for **educational and demonstration purposes only**.
 > It is **NOT** a replacement for real mental health services or professional crisis intervention.
